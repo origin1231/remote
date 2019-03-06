@@ -6,3 +6,6 @@ add sub(a, b)
 
 add mul(a, b)
  return a*b;
+
+add div(a, b)
+ return a/b;
